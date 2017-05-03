@@ -1,0 +1,11 @@
+CLASSIFIER tf_pwms
+MKL_NORM 1
+
+KERNEL Linear
+KERNEL_NAME TF_PWMs
+KERNEL_NORM VarianceKernelNormalizer
+PP_FEATURE /dors/capra_lab/projects/drm_enhancers/data/pred_features/tf_pwms/merged/Homo_sapiens/
+PP_FEATURE /dors/capra_lab/projects/drm_enhancers/data/pred_features/tf_pwms/merged/JASPAR_CORE_2016_vertebrates/
+PP_FEATURE /dors/capra_lab/projects/drm_enhancers/data/pred_features/tf_pwms/merged/motifs_meme_format/
+
+END

@@ -1,0 +1,9 @@
+CLASSIFIER drm_counts
+MKL_NORM 1
+
+KERNEL Linear
+KERNEL_NAME DRM_COUNTS
+KERNEL_NORM VarianceKernelNormalizer
+#PP_FEATURE /dors/capra_lab/projects/drm_enhancers/data/pred_features/drm_counts/complete_files/
+PP_FEATURE /dors/capra_lab/projects/drm_enhancers/data/pred_features/drm_counts/perbp_full/
+END

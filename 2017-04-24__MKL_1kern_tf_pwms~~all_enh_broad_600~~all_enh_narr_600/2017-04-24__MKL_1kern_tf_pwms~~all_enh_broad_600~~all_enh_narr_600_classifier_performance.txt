@@ -1,0 +1,18 @@
+# bin/evaluate_enhancer_prediction_shogun.py data/classifier_config/MKL_1kern_tf_pwms.classifier_config data/fantom_enh/cgi_analysis/all_enh_broad_600.bed data/fantom_enh/cgi_analysis/all_enh_narr_600.bed 2017-04-24 11:25:40.082135
+#
+#
+#
+
+tf_pwms
+F1                   0.740 (10)
+WRACC                0.533 (10)
+accuracy             0.766 (10)
+balanced_err         0.234 (10)
+cross_corr           0.544 (10)
+error_rate           0.234 (10)
+pr_auc               0.861 (10)
+precision            0.834 (10)
+recall               0.666 (10)
+roc_auc              0.852 (10)
+specificity          0.867 (10)
+
