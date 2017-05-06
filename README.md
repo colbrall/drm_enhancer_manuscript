@@ -39,7 +39,7 @@ supp_table_1.txt
 
 **classifiers/**  
 contains output and scripts from all SVM classifiers
----------
+
 **Files relevant for main text figures:**
 
 **Figure 1**- Fold Enrichments of DRM counts from all_fantom_enhancers.bed  
