@@ -1,6 +1,6 @@
 ### Guide to Scripts and data for "Short DNA sequence patterns accurately identify broadly active human enhancers"
 ##### Laura Colbran April 21, 2017
-
+###### https://doi.org/10.1186/s12864-017-3934-9
 **scripts/**  
 kmer_enrichment.py  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;calculates fold enrichment of kmers between 2 fasta files  
